@@ -18,5 +18,34 @@
     <ClCompile Include="entry.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="crawler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ehentai.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="html.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="macros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="crawler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ehentai.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="html.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

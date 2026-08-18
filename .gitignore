@@ -1,3 +1,7 @@
 .vs/
 x64/
 ehentai_crawler/x64/
+build/
+out/
+downloads/
+vcpkg_installed/
