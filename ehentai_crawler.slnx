@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ehentai_crawler/ehentai_crawler.vcxproj" Id="cac33b2b-e08e-4db3-8fdb-aa96e1c297b5" />
+</Solution>
